@@ -1,6 +1,5 @@
-## Welcome to Sclabale Ideas
+## Welcome to Sam's Website
 
-TEST
 
 You can use the [editor on GitHub](https://github.com/samhuleatt/samhuleatt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
